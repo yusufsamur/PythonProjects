@@ -18,6 +18,7 @@ print(kisi)
 del kisi["id"]
 print(kisi)
 print(kisi)
+print(kisi)
 for x in kisi :
     print(x) # Key elemanları yazdırır
 
