@@ -1,0 +1,23 @@
+İSİM                     SOYAD                    BÖLÜM                    ORTALAMA                DURUM
+
+Darcey                   Parker                   Fizik                    58.0                    KALDI
+Amara Allen              Eloise                   Kimya Müh                69.4                    KALDI
+Brynn                    Thomas                   Kimya Müh                75.2                    KALDI
+James                    Harper                   Bilgisayar Müh           75.8                    KALDI
+John                     Hunter                   Fizik                    61.2                    KALDI
+William                  Hussain                  Fizik Müh                69.0                    KALDI
+Richard                  Jeff                     Matematik                61.2                    KALDI
+Charles Booth            Hamish                   Bilgisayar Müh           62.4                    KALDI
+Daniel                   Porter                   Fizik Müh                68.0                    KALDI
+Martin                   Hank                     Bilgisayar Müh           79.3                    KALDI
+Kenneth                  Rogers                   Fizik                    59.7                    KALDI
+Tim                      Jack                     Matematik Müh            72.1                    KALDI
+Edward Frankie           Adams                    Fizik                    86.8                    KALDI
+Ronald                   Tate                     Bilgisayar Müh           68.8                    KALDI
+Anthony                  Casper                   Fizik Müh                64.8                    KALDI
+Jo                       Khan                     Matematik Müh            47.8                    KALDI
+Bev                      Cunningham               Kimya Müh                67.8                    KALDI
+Amalia                   Atkinson                 Fizik Müh                70.8                    KALDI
+Marley Sienna            Robertson                Bilgisayar Müh           87.3                    KALDI
+Jemima                   Fox                      Matematik Müh            58.3                    KALDI
+Taylor                   Evans                    Kimya Müh                72.9                    KALDI
